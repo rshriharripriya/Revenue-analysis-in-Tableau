@@ -1,5 +1,5 @@
 <div align = center >
-  <a 
+  <a target="_blank"
 href="https://public.tableau.com/app/profile/shri.harri.priya.ramesh/viz/Addidasrevenuedashboard/RevenueDashboard">
 
 ![Static Badge](https://img.shields.io/badge/View_dashboard_in_Tableau%20_Public-View_dashboard_in_Tableau%20_Public?style=for-the-badge&labelColor=rgb(5%2C%20146%2C%20164)&color=rgb(5%2C%20146%2C%20164))
